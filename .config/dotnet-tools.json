@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "nswag.consolecore": {
+      "version": "14.0.1",
+      "commands": [
+        "nswag"
+      ]
+    },
+    "csharpier": {
+      "version": "0.28.2",
+      "commands": [
+        "dotnet-csharpier"
+      ]
+    }
+  }
+}
